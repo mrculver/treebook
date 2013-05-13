@@ -14,3 +14,9 @@ bubba:
   last_name: "Clubba"
   email: "bubbaclubba@eq.com"
   profile_name: "bubbaclubba"
+
+mike:
+  first_name: "Mike"
+  last_name: "Culver"
+  email: "mrculver@aug.edu"
+  profile_name: "mrculver"
